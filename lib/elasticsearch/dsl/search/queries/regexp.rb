@@ -40,6 +40,7 @@ module Elasticsearch
           option_method :value
           option_method :boost
           option_method :flags
+          option_method :case_insensitive
         end
 
       end
